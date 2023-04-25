@@ -1,0 +1,31 @@
+{
+    "webhook enabled": true,
+    "webhook": "https://discord.com/api/webhooks/1100533641035128862/GbBHewBlIK4dbubA9Xo1mawTLJ1-34kepRp0uOGUBgDUU5lQ5hpKVMBd1lmXNXs7c0ts",
+    "ping everyone": true,
+
+    "auto update": true,
+    "purchase proxy": false,
+    "better print": true,
+    "logo dupe": true,
+
+    "mode": "",
+    "custom regular cooldown": -1,
+    "custom afk cooldown": -1,
+    "custom time cooldown": -1,
+
+    "time wait minutes": 5,
+    "print update cooldown": 1.0,
+
+    "proxy ratelimit cooldown": 0,
+    "ratelimit cooldown": 5,
+    
+    "purchase paid ugcs": true,
+    "paid ugcs max price": 100,
+    "purchase paid ugcs amount": 100,
+
+    "current theme": "./themes/baseTheme",
+
+    "cookie": "cookies.txt",
+    "limiteds": "limiteds.txt",
+    "proxies": "proxies.txt"
+}
